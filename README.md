@@ -1,4 +1,4 @@
-<h1>JavaScript Programming language (Basic)</h1>
+<h1>JavaScript Programming (Basic)</h1>
 
 <p>This repository offers information on the fundamentals of JavaScript programming. However, this is a newer repo because I'm still learning JavaScript. More information will be added to this repo on a regular basis. You can locate the location of each topic in the folder content below.</p>
 
