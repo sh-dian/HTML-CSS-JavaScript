@@ -2,11 +2,6 @@
 
 <p>This repository offers information of HTML, CSS and JavaScript programming. However, this is a newer repo because I'm still in the process of learning. More information will be added to this repo on a regular basis. You can locate the location of each topic in the folder content below.</p>
 
-<h4>Folder: Basic HTML</h4>
-<h4>Folder: Basic CSS</h4>
-<h4>Folder: JavaScript</h4>
-<h4>Folder: HTML & CSS</h4>
-<h4>Folder: HTML , CSS & JavaSript</h4>
 
 <h3 align="left">Language:</h3>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
