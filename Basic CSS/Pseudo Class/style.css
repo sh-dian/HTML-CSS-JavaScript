@@ -1,0 +1,22 @@
+a:link{
+    color: aquamarine;
+}
+a:visited{
+    color: crimson;
+}
+button:hover{
+    background-color: rgba(80, 162, 168, 0.733);
+}
+button:active{ /*when click or hold*/
+    background-color: rgb(23, 66, 68);
+}
+
+li:first-child{ /*target a list item*/
+    background-color: yellowgreen;
+}
+li:last-child{
+    background-color: crimson;
+}
+li:nth-child(2){ /*an be "odd" / "even" / any number*/
+    background-color: bisque;
+}
