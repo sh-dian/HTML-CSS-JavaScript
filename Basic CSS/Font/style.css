@@ -1,0 +1,29 @@
+/* 
+    There are many type of fonts that you can use.
+    You can find various type of font at (https://fonts.google.com/)
+    make sure to embed first in the html file to use the font obtain from the link
+*/
+body{
+    background-color: darkslategrey;
+}
+
+p{
+    /*Change type of font - you can add multiple font just incase the web browser doesn't support*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /*Change type of font style (italic / bold)*/
+    font-style: italic;
+    /*Change type of bold*/
+    font-weight: bold;
+    /*Change type of size of font*/
+    font-size: 14px;
+    /*Change font color*/
+    color: aliceblue;
+
+    /*Set the decoration for the text*/
+    text-decoration: normal;
+}
+
+h1{
+    font-family: 'Roboto Serif', sans-serif;
+    color: burlywood;
+}
