@@ -1,0 +1,20 @@
+h1{
+    border: 1px solid;
+    width: 300px;
+    padding: 10px;
+}
+#p1{
+    border: 1px solid;
+    width: 250px;
+    padding: 25px; /*distance with the border*/
+    
+    margin: 25px; /*distance from html element with another html element*/
+}
+
+#p2{
+    border: 2px solid;
+    width: 250px;
+    padding: 25px; /*distance with the border*/
+    
+    margin: 25px 75px 25px 75px; /*distance from html element with another html element*/
+}
