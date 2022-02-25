@@ -1,0 +1,21 @@
+h1{
+    border: 2px solid;
+    width: 250px;
+    padding: 25px;
+
+    text-shadow: 0px 0px 5px crimson; /*you can add multiple shadow separate with comma*/
+    /*
+        horizontal (px)
+        vertical (px)
+        blur (px)
+        color (name, rgb, hex)
+    */
+
+    box-shadow: 5px 5px 3px crimson;
+    /*
+        horizontal (px)
+        vertical (px)
+        blur (px)
+        color (name, rgb, hex)
+    */
+}
