@@ -1,0 +1,24 @@
+html{
+    /*you can change the color based on rgb value or hexadeimal value*/
+    /*background-color: bisque;*/
+
+    /*create gradient background
+    background: linear-gradient(white,bisque, crimson);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed; */
+
+    /*set image as the background */
+    background-image: url(oyOdYp.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    background: linear-gradient(to right, white,bisque, crimson);
+}
