@@ -30,8 +30,8 @@
 |  | |
 | | |
 
-<h3 align="left">Website for HTML Reference (click the logo):</h3>
-<a href="https://youtu.be/qz0aGYrrlhU" target="_blank" rel="noreferrer"> <img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c545.png" alt="HTML with MOSH" width="45" height="45"/> </a>
+<h3 align="left">Website for HTML & CSS Reference (click the logo):</h3>
+<a href="https://www.youtube.com/watch?v=cyuzt1Dp8X8" target="_blank" rel="noreferrer"> <img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c545.png" alt="HTML&CSS" width="45" height="45"/> </a>
 
 <h3 align="left">Language:</h3>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
