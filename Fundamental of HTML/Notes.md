@@ -53,3 +53,11 @@ use !important to specify the main CSS
 :root is a pseudo-class selector that matches the root element of the document, usually the html element. By creating your variables in :root, they will be available globally and can be accessed from any other selector in the style sheet.
 
 position: absolute | relative | fixed | sticky
+
+::before creates a pseudo-element that is the first child of the selected element; ::after creates a pseudo-element that is the last child of the selected element.
+
+
+To animate an element, you need to know about the animation properties and the @keyframes rule. The animation properties control how the animation should behave and the @keyframes rule controls what happens during that animation. There are eight animation properties in total. This challenge will keep it simple and cover the two most important ones first:
+animation-name sets the name of the animation, which is later used by @keyframes to tell CSS which rules go with which animations.
+animation-duration sets the length of time for the animation.
+@keyframes is how to specify exactly what happens within the animation over the duration. This is done by giving CSS properties for specific "frames" during the animation, with percentages ranging from 0% to 100%. If you compare this to a movie, the CSS properties for 0% is how the element displays in the opening scene. The CSS properties for 100% is how the element appears at the end, right before the credits roll. Then CSS applies the magic to transition the element over the given duration to act out the scene.
