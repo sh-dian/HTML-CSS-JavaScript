@@ -35,8 +35,23 @@
 
 | Topic | Description |
 | :--- | :--- |
-|  | |
-| | |
+| [All About String](https://github.com/sh-dian/HTML-CSS-JavaScript/blob/main/Fundamental%20of%20JavaScript/All%20about%20String.js)| |
+| [Array I](https://github.com/sh-dian/HTML-CSS-JavaScript/blob/main/Fundamental%20of%20JavaScript/Arrays%20I.js)| |
+| [Array II](https://github.com/sh-dian/HTML-CSS-JavaScript/blob/main/Fundamental%20of%20JavaScript/Arrays%20II.js)| |
+| [Class](https://github.com/sh-dian/HTML-CSS-JavaScript/blob/main/Fundamental%20of%20JavaScript/Class.js)| |
+| [Constants](https://github.com/sh-dian/HTML-CSS-JavaScript/blob/main/Fundamental%20of%20JavaScript/Constants%20I.js)| |
+| [Data Type & Variable I](https://github.com/sh-dian/HTML-CSS-JavaScript/blob/main/Fundamental%20of%20JavaScript/Data%20Type%20%26%20Variable%20I%20(let).js)| |
+| [Data Type & Variable II](https://github.com/sh-dian/HTML-CSS-JavaScript/blob/main/Fundamental%20of%20JavaScript/Data%20Type%20%26%20Variable%20II%20(var).js)| |
+| [Data Type & Variable III](https://github.com/sh-dian/HTML-CSS-JavaScript/blob/main/Fundamental%20of%20JavaScript/Data%20Type%20%26%20Variable%20III.js)| |
+| [Functions I](https://github.com/sh-dian/HTML-CSS-JavaScript/blob/main/Fundamental%20of%20JavaScript/Functions%20I.js)| |
+| [Functions I](https://github.com/sh-dian/HTML-CSS-JavaScript/blob/main/Fundamental%20of%20JavaScript/Functions%20II%20(Global%20Scope).js)| |
+| [Loop I](https://github.com/sh-dian/HTML-CSS-JavaScript/blob/main/Fundamental%20of%20JavaScript/Loop%20I%20(While).js)| |
+| [Loop II](https://github.com/sh-dian/HTML-CSS-JavaScript/blob/main/Fundamental%20of%20JavaScript/Loop%20II%20(For).js)| |
+| [Loop III](https://github.com/sh-dian/HTML-CSS-JavaScript/blob/main/Fundamental%20of%20JavaScript/Loop%20III%20(Do..While).js)| |
+| [Object I](https://github.com/sh-dian/HTML-CSS-JavaScript/blob/main/Fundamental%20of%20JavaScript/Object%20I.js)| |
+| [Object II](https://github.com/sh-dian/HTML-CSS-JavaScript/blob/main/Fundamental%20of%20JavaScript/Object%20II.js)| |
+| [Object III](https://github.com/sh-dian/HTML-CSS-JavaScript/blob/main/Fundamental%20of%20JavaScript/Object%20III.js)| |
+| [Setter Getter](https://github.com/sh-dian/HTML-CSS-JavaScript/blob/main/Fundamental%20of%20JavaScript/Setter%20Getter.js)| |
 
 <h3 align="left">Website for HTML & CSS Reference (click the logo):</h3>
 <a href="https://www.youtube.com/watch?v=cyuzt1Dp8X8" target="_blank" rel="noreferrer"> <img src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c545.png" alt="HTML&CSS" width="45" height="45"/> </a>
