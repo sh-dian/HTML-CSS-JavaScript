@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- 
+
+Hello Camper!
+
+Please read the README below in the JS Editor before beginning. Feel free to delete this message once you have read it. Good luck and Happy Coding! 
+
+- The freeCodeCamp Team 
+
+-->
+<div class="container">
+    <h1 id="title">User Story Survey Form</h1>
+    <p id="description">Your feedback is our future</p>
+    
+    <form id="survey-form">
+        <label id="name-label" for="name">Name</label>
+        <input class="formfill"
+          type="text"
+          name="name"
+          id="name"
+          placeholder="Enter your name"
+          required/>
+        
+        <label id="email-label" for="email">Email</label>
+        <input class="formfill"
+          type="email"
+          name="email"
+          id="email"
+          placeholder="Enter your Email"
+          required/>
+      
+      <label id="number-label" for="number">Age</label>
+        <input class="formfill"
+          type="number"
+          name="number"
+          id="number"
+          placeholder="Enter your Age"
+          required
+          min = 12
+          max = 80/>
+      
+        <p>What are your current role?</p>
+        <select id="dropdown" name="role" class="formfill" required>
+          <option disabled selected value>Select current role</option>
+          <option value="student">Student</option>
+          <option value="job">Full Time Job</option>
+          <option value="learner">Full Time Learner</option>
+          <option value="other">Other</option>
+        </select>
+      
+      <p>Are you satisfied with the information?</p>
+      <label> 
+        <input class="radio" value="yes" type="radio" name="yes-no">Yes 
+      </label>
+      <label> 
+        <input class="radio" value="no" type="radio" name="yes-no">No 
+      </label>
+      
+      <p>What do you want us to improve?</p>
+      <label>
+        <input class="checkbox" value="Information" type="checkbox" name="improvement">Information
+      </label>
+      <label>
+        <input class="checkbox" value="Figures" type="checkbox" name="improvement">Figures
+      </label>
+      <label>
+        <input class="checkbox" value="Explanation" type="checkbox" name="improvement">Explanation
+      </label>
+      
+      <p>Any comments or suggestions?</p>
+        <textarea
+          id="comments"
+          class="textarea"
+          name="comment"
+          placeholder="Enter your comment here...">               </textarea>
+      
+        <button type="submit" id="submit" class="submit-button">
+          Submit
+        </button>
+    </form>
+  </div>
+</body>
+</html>
